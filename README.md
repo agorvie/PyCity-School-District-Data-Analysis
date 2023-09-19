@@ -18,7 +18,7 @@
 ---
 
 ### 1. Background<a name="background"></a>
-Welcome to the PyCity Schools Data Analysis Project. The task is to aggregate the School Districts data to showcase obvious trends in school performance.  The data contains district-wide standardized test results including every student's math and reading scores, as well as various information on the schools they attend. The results of the analysis will be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+Welcome to the PyCity School District Data Analysis Project. The task is to aggregate the School Districts data to showcase obvious trends in school performance.  The data contains district-wide standardized test results including every student's math and reading scores, as well as various information on the schools they attend. The results of the analysis will be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 ### 2. Instructions<a name="instructions"></a>
 
