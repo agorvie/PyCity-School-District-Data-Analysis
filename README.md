@@ -82,6 +82,11 @@ This section provides a summary of school performance metrics, including average
 #### Highest-Performing Schools and Bottom-Performing Schools
 The project identifies and presents the highest-performing and bottom-performing schools based on overall passing rates.
 
+<img width="452" alt="image" src="https://github.com/agorvie/PyCity-School-District-Data-Analysis/assets/122469792/048c31c7-a8f5-468e-b23c-ad8fc264ae59">
+
+<img width="450" alt="image" src="https://github.com/agorvie/PyCity-School-District-Data-Analysis/assets/122469792/158abd92-4d51-4396-a719-9dcf71f1e2e4">
+
+
 #### Math Scores by Grade and Reading Scores by Grade
 These sections analyze math and reading scores by grade level, providing insights into how student performance changes as they progress through different grades.
 
